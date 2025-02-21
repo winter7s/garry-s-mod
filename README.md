@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-    <h2><a href="https://shorturl.at/cP1mN">🔹 Download garry's 🔹</a></h2>
+    <h2><a href="https://shorturl.at/cP1mN">🔹 Download garry's mod 🔹</a></h2>
 </div>
 
 ---
